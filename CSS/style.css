@@ -155,7 +155,7 @@ h2 {
 
 
 .wrap-1 {
-    background: url('/Img/wrap-1.jpg') no-repeat center center/cover;
+    background: url("/Img/wrap-1.jpg") no-repeat center center/cover;
 }
 
 .wrap-2 {
@@ -307,7 +307,7 @@ h2 {
 }
 
 .wrap-5 {
-    background: url('/Img/footor.jpg') no-repeat center center/cover;
+    background: url("/Img/footor.jpg") no-repeat center center/cover;
     color: white;
 }
 
